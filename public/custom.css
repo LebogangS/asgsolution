@@ -1,0 +1,19 @@
+body {
+    background-color: #f4f4f4;
+}
+
+.login-form, .signup-form {
+    margin-top: 150px;
+}
+
+.add-currency .buttons button {
+    margin-bottom: 10px;
+}
+
+.single-currency .buttons a {
+    margin: 5px 0;
+}
+
+.single-currency .buttons button {
+    margin-bottom: 5px;
+}
